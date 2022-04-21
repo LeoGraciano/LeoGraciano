@@ -22,7 +22,7 @@
   <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="postgresql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
-   <img align="right" width="130" height="130" style="border-radius:50px;" src="https://instagram.fgyn23-1.fna.fbcdn.net/v/t51.2885-15/150564925_133321435327130_1788711375088112404_n.jpg" />
+   <img align="right" width="130" height="130" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/21141434?s=96&v=4" />
 </div>
    
 ##
